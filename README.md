@@ -8,15 +8,15 @@ Azure Kinect device (circa 2020) to localize
 a human face and spatially register it to a
 CT or MRI scan coordinate system.
 
-The code is posted here for reference and further study.
+The code is posted here for reference and further study.  There is [sample data](https://github.com/pieper/facenav/releases/download/v0.1/MRHead-face.zip) in the asset section of the first release.  The MRHead is a scan of me from 2002, when I was about 50 pounds heavier, which explains why the cheeks don't match.
 
 ## Built with
 
-* 3D Slicer
-* Azure Kinect SDK (and device)
-* Intel open3d
-* TensorFlow
-* mtcnn
+* [3D Slicer](https://slicer.org)
+* [Azure Kinect DK (and device)](https://docs.microsoft.com/en-us/azure/kinect-dk/)
+* [Intel open3d](https://github.com/intel-isl/Open3D)
+* [TensorFlow](https://www.tensorflow.org/)
+* [mtcnn](https://pypi.org/project/mtcnn/)
 
 ## Examples
 
