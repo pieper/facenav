@@ -25,3 +25,9 @@ Click the images to view video versions on youtube.
 [![MRI tracking face in 3D](http://img.youtube.com/vi/T5218dK9CH0/0.jpg)](http://www.youtube.com/watch?v=T5218dK9CH0 "Live face navigation")
 
 [![MRI tracked face in 3D](http://img.youtube.com/vi/7-rj6pQ_A6c/0.jpg)](http://www.youtube.com/watch?v=7-rj6pQ_A6c "Example registration")
+
+## Support
+
+This work supported in part by NAC, a Biomedical Technology Resource Center supported by the National Institute of Biomedical Imaging and Bioengineering (NIBIB) (P41 EB015902).
+
+Copyright 2020 Isomics, Inc., all rights reserved.
